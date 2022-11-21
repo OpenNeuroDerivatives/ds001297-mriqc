@@ -1,0 +1,10 @@
+Warning: Permanently added 'c169-013' (ED25519) to the list of known hosts.
+WARNING (11/18/22 14:23:32): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5000959.hostlist.CvkAlJ2t to get hosts
+starting job on c169-013
+starting job on c169-143
+starting job on c169-173
+starting job on c169-183
+starting job on c170-071
+starting job on c170-073
+starting job on c170-093
